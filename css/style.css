@@ -1,0 +1,43 @@
+.avatar{
+    margin:0 auto;
+    width:70%;
+    padding:10px 0px;
+}
+
+.page{
+    display:none;
+    padding:10px 0px;
+}
+.page-section{
+    display:none;
+}
+
+.page-default,
+.page-section-default{
+    display:block;
+}
+
+.center-div{
+    margin:0 auto;
+}
+
+#preloaderFull{
+    position:fixed;
+    top:0px;
+    bottom:0px;
+    width:100%;
+    height:100%;
+    overflow:visible;
+    z-index:999;
+    background:#333333;
+}
+
+.btn-fixed-bottom{
+    position:fixed;
+    bottom:20px;
+    right:20px;
+}
+
+.full-width{
+    width:100%;
+}
